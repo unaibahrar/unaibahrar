@@ -12,25 +12,25 @@
 
 ---
 
-## 💡 Results-Driven Data Professional
+## 💡 Results-Driven AI Professional
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Data Animation">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="AI Animation">
 
-Results-driven Data Engineer focused on **Azure Cloud Data Solutions**. I design, implement, and orchestrate robust ETL/ELT workflows that handle high-volume data, ensuring data quality and availability for critical business intelligence and analytical needs.
+Results-driven AI Engineer passionate about **Machine Learning & Generative AI Solutions**. I design, develop, and deploy intelligent systems — from predictive models to LLM-powered applications — transforming complex data into smart, scalable AI products.
 
-**Seeking:** Entry-level **Data Engineer**, Cloud Data Analyst, or BI Developer roles.
+**Seeking:** Entry-level **AI/ML Engineer**, NLP Developer, or Generative AI Developer roles.
 
 ### 🎯 Core Competencies
-- ☁️ **Cloud-Native Solutions:** Expertise in building scalable data architectures on **Azure**.
-- 🔄 **Data Orchestration:** Designing efficient and reliable **ETL/ELT pipelines** and incremental loads.
-- 📊 **Business Intelligence:** Delivering intuitive **dashboards** that translate complex data into clear business actions.
-- 🧱 **Data Modeling:** Implementing dimensional modeling (Star/Snowflake) and Medallion Architecture.
+- 🤖 **Machine Learning:** Building and fine-tuning supervised/unsupervised models for real-world prediction tasks.
+- 🧠 **Generative AI & LLMs:** Developing applications powered by **Large Language Models** (GPT, LLaMA, Gemini).
+- 🔗 **AI Pipelines:** Designing end-to-end ML workflows from data preprocessing to model deployment.
+- 📊 **Data-Driven Insights:** Leveraging data analysis and visualization to evaluate and improve model performance.
 
 ### 🌱 Current Focus & Development
-- **Mastering Azure Synapse Analytics** for large-scale data warehousing and processing.
-- **Architecting end-to-end data pipelines** using **Azure Data Factory** (ADF) and Azure Data Lake Gen2.
-- **Developing complex, interactive Power BI reports** connected to cloud data sources.
-- Focusing on **data governance** and implementing **SCD Type 2** for historical tracking.
+- **Mastering LLM fine-tuning & prompt engineering** for domain-specific AI applications.
+- **Building RAG (Retrieval-Augmented Generation) pipelines** using LangChain and vector databases.
+- **Deploying ML models** via FastAPI and cloud platforms (Azure / AWS).
+- Exploring **AI Agents** and multi-step reasoning frameworks like AutoGen and CrewAI.
 
 ---
 
